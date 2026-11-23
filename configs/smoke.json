@@ -1,0 +1,11 @@
+{
+  "image_height": 64,
+  "image_width": 96,
+  "token_height": 4,
+  "token_width": 6,
+  "channels": 32,
+  "batch_size": 2,
+  "epochs": 1,
+  "train_steps": 2,
+  "eval_steps": 3
+}
